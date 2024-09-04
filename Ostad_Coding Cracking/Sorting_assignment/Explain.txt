@@ -1,0 +1,21 @@
+Task 01 :
+********
+
+Time Complexity:     O(n log n)
+Space Complexity:   it does not require
+                    additional strorage
+
+Sorting methode:    Quick sort 
+Explain :           This implementation solves the problems
+                    efficiently in terms of both time and space,
+                    meeting the problem constraints and ensuring 
+                    optimal performance for large inputs.
+
+
+
+Task 02 :
+********
+
+Time Complexity:    O(n + m), 
+space Complexity:   O(n + m),
+Sorting :           O((s1 + s2) log(s1 + s2));
